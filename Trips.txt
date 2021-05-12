@@ -1,0 +1,4 @@
+Aswan 5 one-way enternal many-stop bus
+Cairo 2 round enternal one-stop bus
+Portsaid 1 one-way enternal non-stop limousine
+Turkey 5 round external non-stop bus
